@@ -11,3 +11,5 @@ Partners: N/A
 Other:
   - This project is truly my favorite applications in my experience in programming.
   - I feel well about the potential for this project to be bigger.
+  - Repl.It Link:
+    https://repl.it/@Coder_Man/Geopolitical-Simulator-Whatever-Year
