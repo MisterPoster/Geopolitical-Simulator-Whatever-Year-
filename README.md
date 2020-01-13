@@ -1,4 +1,4 @@
-# Geopolitical-Simulator-Whatever-Year-
+# Geopolitical-Simulator: Whatever-Year?
 2019 CAC submission for Advanced Java Topics
 
 Geopolitical Simulator: Whatever Year! (Submitted October 31, 2019)
